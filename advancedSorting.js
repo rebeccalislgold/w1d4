@@ -24,6 +24,7 @@ function compareAge(a, b){
 let sortedByAge = students.sort(compareAge)
 let sortedByName = students.sort(compareName)
 
-// console.log(students);
+console.log(students);
 
-console.log(students.sort(compareName));
+// Alternative: use this line instead of lines 24 - 27:
+// console.log(students.sort(compareName));
