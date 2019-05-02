@@ -1,3 +1,5 @@
+//Own version of built-in array map function
+
 function map(someArray, someFunction) {
 
   var newArray = [];
