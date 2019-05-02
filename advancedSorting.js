@@ -26,5 +26,5 @@ let sortedByName = students.sort(compareName)
 
 console.log(students);
 
-// Alternative: use this line instead of lines 24 - 27:
+
 // console.log(students.sort(compareName));
